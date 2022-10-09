@@ -1,6 +1,6 @@
 # Mandelbrot fractal
 
-[What is a Mandelbrot fractal?](https://en.wikipedia.org/wiki/Mandelbrot_fractal)
+[What is a Mandelbrot fractal?](https://en.wikipedia.org/wiki/Mandelbrot_set)
 
 ```bash
 $ mandelbrot
